@@ -9,7 +9,7 @@ training those models.
 
 In this repository, you will find the following files.
 
-  [DATA PREPROCESSING]
+ # [DATA PREPROCESSING]
   1. "Player_statistics.py" file - A Python script that was used to generate data for model
   training. The output file contains non-aggregated player statistics without any auxiliary
   information.
@@ -18,7 +18,7 @@ In this repository, you will find the following files.
   information can be added to the resulting dataset by enabling flags set inside the script. A
   detailed description and documentation can be found inside the file.
 
-  [MODELS AND USE CASES]
+#  [MODELS AND USE CASES]
   3. "ANN_code.ipynb" file - A Jupyter notebook containing all functions and structures used
   in the process of obtaining results for the proposed ANN networks, alongside the networks
   themselves. All of the functions are documented and an example use case is presented.
