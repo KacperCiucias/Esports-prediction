@@ -29,6 +29,8 @@ In this repository, you will find the following files.
   in the process of obtaining results for the proposed VGG network, alongside the network
   itself. All of the functions are documented and an example use case is presented.
 
+
+#  [SAMPLE DATA]
   Alongside those files, there are attached compressed files in the Data_samples folder  which
   need to be unpacked directly into the parent directory. Those files contain the following:
 
